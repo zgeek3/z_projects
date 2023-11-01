@@ -1,0 +1,4 @@
+# files to ignore
+.DS_Store
+.ipynb_checkpoints
+open_payments_study/open_payments_source_data/*
